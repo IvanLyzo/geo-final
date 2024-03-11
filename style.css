@@ -1,0 +1,71 @@
+* {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+svg {
+    fill: rgba(255, 255, 255, 0.5);
+    stroke: rgba(0, 0, 0, 0.5);
+
+    border: 5px rgba(0, 0, 0, 1) solid;
+    padding: 5px;
+
+    display: block;
+    margin: auto;
+
+    width: 70%;
+    height: 70%;
+
+    background-color: lightblue;
+}
+
+text {
+    font-size: 13px;
+}
+
+.chosen {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(0, 0, 0, 1);
+}
+
+#legend {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(0, 0, 0, 1);
+
+    stroke-width: 2px;
+}
+
+.text {
+    fill: rgba(0, 0, 0, 1);
+    stroke-width: 0.5px;
+}
+
+#map-selector-row {
+    text-align: center;
+}
+
+.map-selector {
+    display: inline-block;
+
+    margin: 10px;
+    padding: 5px;
+
+    font-size: large;
+    border-width: 5px;
+}
+
+#info-panel {
+    display: none;
+    position: absolute;
+
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: #FFF;
+
+    padding: 1%;
+}
+
+#info-panel * {
+    display: none;
+}

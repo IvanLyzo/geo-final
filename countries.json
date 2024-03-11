@@ -1,0 +1,154 @@
+{
+    "max": {
+        "lei": 85,
+        "ei": 1,
+        "ii": 75000,
+        "hdi": 1
+    },
+    "countries": [
+        {
+            "alpha": "ao",
+            "name": "Angola",
+            "leb": 61.6,
+            "eys": 12.2,
+            "mys": 5.4,
+            "gni": 5466
+        },
+        {
+            "alpha": "dz",
+            "name": "Algeria",
+            "leb": 76.4,
+            "eys": 14.6,
+            "mys": 8.1,
+            "gni": 10800
+        },
+        {
+            "alpha": "td",
+            "name": "Republic of Chad",
+            "leb": 52.5,
+            "eys": 8,
+            "mys": 2.6,
+            "gni": 1364
+        },
+        {
+            "alpha": "mn",
+            "name": "Mongolia",
+            "leb": 71,
+            "eys": 15,
+            "mys": 9.4,
+            "gni": 10588
+        },
+        {
+            "alpha": "kr",
+            "name": "Republic of Korea (South Korea)",
+            "leb": 83.7,
+            "eys": 16.5,
+            "mys": 12.5,
+            "gni": 44501
+        },
+        {
+            "alpha": "in",
+            "name": "India",
+            "leb": 67.2,
+            "eys": 11.9,
+            "mys": 6.7,
+            "gni": 6590
+        },
+        {
+            "alpha": "pl",
+            "name": "Poland",
+            "leb": 76.5,
+            "eys": 16,
+            "mys": 13.2,
+            "gni": 33034
+        },
+        {
+            "alpha": "es",
+            "name": "Spain",
+            "leb": 83,
+            "eys": 17.9,
+            "mys": 10.6,
+            "gni": 38354
+        },
+        {
+            "alpha": "fi",
+            "name": "Finland",
+            "leb": 82,
+            "eys": 19.1,
+            "mys": 12.9,
+            "gni": 49452
+        },
+        {
+            "alpha": "us",
+            "name": "United States of America",
+            "leb": 77.2,
+            "eys": 16.3,
+            "mys": 13.7,
+            "gni": 64765
+        },
+        {
+            "alpha": "mx",
+            "name": "Mexico",
+            "leb": 70.2,
+            "eys": 14.9,
+            "mys": 9.2,
+            "gni": 17896
+        },
+        {
+            "alpha": "ca",
+            "name": "Canada",
+            "leb": 82.7,
+            "eys": 16.4,
+            "mys": 13.8,
+            "gni": 46808
+        },
+        {
+            "alpha": "nz",
+            "name": "New Zealand",
+            "leb": 82.5,
+            "eys": 20.3,
+            "mys": 12.9,
+            "gni": 44057
+        },
+        {
+            "alpha": "pg",
+            "name": "Papua New Guinea",
+            "leb": 65.4,
+            "eys": 10.4,
+            "mys": 4.7,
+            "gni": 4009
+        },
+        {
+            "alpha": "au",
+            "name": "Australia",
+            "leb": 84.5,
+            "eys": 21.1,
+            "mys": 12.7,
+            "gni": 49238
+        },
+        {
+            "alpha": "ar",
+            "name": "Argentina",
+            "leb": 75.4,
+            "eys": 17.9,
+            "mys": 11.1,
+            "gni": 20925
+        },
+        {
+            "alpha": "bo",
+            "name": "Bolivia",
+            "leb": 70.6,
+            "eys": 12.8,
+            "mys": 11.1,
+            "gni": 4811
+        },
+        {
+            "alpha": "br",
+            "name": "Brazil",
+            "leb": 72.8,
+            "eys": 15.6,
+            "mys": 8.1,
+            "gni": 14370
+        }
+    ]
+}
